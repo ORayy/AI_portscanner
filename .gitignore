@@ -1,0 +1,13 @@
+#.gitignore
+config.py
+
+#virtual Environment
+virtual_environment
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+#IDE specific files
+.vscode
